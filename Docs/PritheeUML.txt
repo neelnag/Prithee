@@ -1,0 +1,4 @@
+Homework1
+----------
++run1()
++splitWord()
